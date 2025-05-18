@@ -1,0 +1,99 @@
+body{
+  background-image: url("./1745853264909.jpg");
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  
+}
+.pinform{
+  background-color: whitesmoke;
+  color: black;
+  width: 500px;
+  border: 1px solid gray;
+  border-radius: 35px;
+  box-shadow: 5px;
+  margin: auto;
+  margin-top: 80px;
+}
+#head{
+  text-align: center;
+  margin: 30px 0px 30px 0px ;
+  font-size: 30px;
+
+}
+.pinform label{
+  display: block;
+  margin: 10px 0px 5px 5px ;
+  font-size: 12px;
+}
+.pinform .input{
+  margin: 20px 60px;
+}
+.pinform input{
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 15px;
+  padding: 12px;
+  border-radius:10px ;
+}
+input:focus{
+  border-color: skyblue;
+  outline: none;
+}
+.forget{
+  margin: 20px 60px;
+  
+}
+.forget a{
+  text-decoration: none;
+}
+.but{
+  font-weight: bolder;
+  text-align: center;
+}
+.but button{
+  padding: 10px 170px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  background-color: red;
+  color: whitesmoke;
+}
+#face{
+  padding: 10px 117px;
+  background-color: rgb(68, 68, 219);
+}
+.pinform h2{
+  text-align: center;
+  font-weight: lighter;
+  font-size: 12px;
+}
+.para{
+  color: gray;
+  font-size: 12px;
+  /* padding-top: 40px; */
+  margin:20px 60px;
+  margin-top: 60px;
+}
+.para span{
+  text-decoration: underline;
+}
+#one strong{
+  font-size: 12px;
+  font-weight: bolder;
+  margin: 20px 120px;
+}
+#two p{
+  font-size: 12px;
+  font-weight: bolder;
+  margin: 20px 90px;
+  color: gray;
+}
+strong{
+  color: black;
+}
+button:hover{
+  cursor: pointer;
+}
+.sp:hover{
+  color: rgb(71, 101, 209);
+  cursor: pointer;
+}
